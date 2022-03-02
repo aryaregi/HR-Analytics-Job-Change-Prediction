@@ -6,19 +6,19 @@ Predict the probability of a candidate to look for a new job or will work for th
 The dataset is taken from kaggle - 
 https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists
 # Features
-Enrollee_id : Unique ID for candidate
-city: City code
-city_ development _index : Developement index of the city (scaled)
-gender: Gender of candidate
-relevent_experience: Relevant experience of candidate
-enrolled_university: Type of University course enrolled if any
-education_level: Education level of candidate
-major_discipline :Education major discipline of candidate
-experience: Candidate total experience in years
-company_size: No of employees in current employer's company
-company_type : Type of current employer
-lastnewjob: Difference in years between previous job and current job
-training_hours: training hours completed
+Enrollee_id : Unique ID for candidate,
+city: City code,
+city_ development _index : Developement index of the city (scaled),
+gender: Gender of candidate,
+relevent_experience: Relevant experience of candidate,
+enrolled_university: Type of University course enrolled if any,
+education_level: Education level of candidate,
+major_discipline :Education major discipline of candidate,
+experience: Candidate total experience in years,
+company_size: No of employees in current employer's company,
+company_type : Type of current employer,
+lastnewjob: Difference in years between previous job and current job,
+training_hours: training hours completed,
 target: 0 – Not looking for job change, 1 – Looking for a job change
 # Methodology
 Dataset collection
@@ -26,6 +26,7 @@ Performed EDA : Handled outliers using flooring and capping method , Deleted dup
 Created 6 different classification models : Logistic Regression,KNN,Decision Tree,SVM,Random Forest,XGBoost
 Performed comparative analysis
 # Visualization
+
 Count of candidate based on gender
 ![Count of candidate based on gender](https://user-images.githubusercontent.com/94851933/156412337-301f4301-9a55-4e6c-a2ac-1562a1249404.png)
 
