@@ -29,10 +29,13 @@ Performed comparative analysis
 Count of candidate based on gender
 ![Count of candidate based on gender](https://user-images.githubusercontent.com/94851933/156412337-301f4301-9a55-4e6c-a2ac-1562a1249404.png)
 
+Distribution of Training Hours
 ![Distribution of Training Hours](https://user-images.githubusercontent.com/94851933/156413167-76de5355-ecf4-421a-bd69-790bd0fcdd72.png)
 
+Candidate from major cities
 ![Candidates from major cities](https://user-images.githubusercontent.com/94851933/156413210-99d2e472-c96b-4d44-b9fd-bdf88048edf7.png)
 
+Relation of City_development_index and target
 ![Relation of City development and target](https://user-images.githubusercontent.com/94851933/156413238-b23f8b96-a1c8-4e2b-b004-89f73f5277b6.png)
 
 # Libraries used
