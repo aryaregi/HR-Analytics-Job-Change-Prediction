@@ -26,6 +26,7 @@ Performed EDA : Handled outliers using flooring and capping method , Deleted dup
 Created 6 different classification models : Logistic Regression,KNN,Decision Tree,SVM,Random Forest,XGBoost
 Performed comparative analysis
 # Visualization
+Count of candidate based on gender
 ![Count of candidate based on gender](https://user-images.githubusercontent.com/94851933/156412337-301f4301-9a55-4e6c-a2ac-1562a1249404.png)
 
 ![Distribution of Training Hours](https://user-images.githubusercontent.com/94851933/156413167-76de5355-ecf4-421a-bd69-790bd0fcdd72.png)
