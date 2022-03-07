@@ -43,4 +43,5 @@ Relation of City_development_index and target
 1) Data Cleaning - Pandas , Numpy
 2) Data Visualization - seaborn , matplotlib
 3) Feature Scaling - MinMaxScaler
-4) Algorithms - DecisionTreeClassifier,RandomForestClassifier,SVM,KNeighboursClassifier,LogisticRegression,XGBClassifier
+4) Splitting to train and test
+5) Algorithms - DecisionTreeClassifier,RandomForestClassifier,SVM,KNeighboursClassifier,LogisticRegression,XGBClassifier
