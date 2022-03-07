@@ -39,7 +39,7 @@ Candidate from major cities
 Relation of City_development_index and target
 ![Relation of City development and target](https://user-images.githubusercontent.com/94851933/156413238-b23f8b96-a1c8-4e2b-b004-89f73f5277b6.png)
 
-Comparative Analysis
+
 ![comparative analysis](https://user-images.githubusercontent.com/94851933/157096405-a0376af3-e6c1-4ea6-9d7e-ce8a4ba8ca86.png)
 
 
