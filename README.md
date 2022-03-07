@@ -21,10 +21,10 @@ lastnewjob: Difference in years between previous job and current job,
 training_hours: training hours completed,
 target: 0 – Not looking for job change, 1 – Looking for a job change
 # Methodology
-Dataset collection
-Performed EDA : Handled outliers using flooring and capping method , Deleted duplicted rows , Converted categorical features using One Hot Encoding , Feature Scaling.
-Created 6 different classification models : Logistic Regression,KNN,Decision Tree,SVM,Random Forest,XGBoost
-Performed comparative analysis
+1) Dataset collection
+2) Performed EDA : Handled outliers using flooring and capping method , Deleted duplicted rows , Converted categorical features using One Hot Encoding , Feature Scaling.
+3) Created 6 different classification models : Logistic Regression,KNN,Decision Tree,SVM,Random Forest,XGBoost
+4) Performed comparative analysis
 # Visualization
 
 Count of candidate based on gender
