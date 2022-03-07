@@ -40,7 +40,7 @@ Relation of City_development_index and target
 ![Relation of City development and target](https://user-images.githubusercontent.com/94851933/156413238-b23f8b96-a1c8-4e2b-b004-89f73f5277b6.png)
 
 # Libraries used
-Data Cleaning - Pandas , Numpy
-Data Visualization - seaborn , matplotlib
-Feature Scaling - MinMaxScaler
-Algorithms - DecisionTreeClassifier,RandomForestClassifier,SVM,KNeighboursClassifier,LogisticRegression,XGBClassifier
+1) Data Cleaning - Pandas , Numpy
+2) Data Visualization - seaborn , matplotlib
+3) Feature Scaling - MinMaxScaler
+4) Algorithms - DecisionTreeClassifier,RandomForestClassifier,SVM,KNeighboursClassifier,LogisticRegression,XGBClassifier
