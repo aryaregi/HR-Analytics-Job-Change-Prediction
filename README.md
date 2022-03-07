@@ -6,8 +6,8 @@ Predict the probability of a candidate to look for a new job or will work for th
 The dataset is taken from kaggle - 
 https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists
 # Features
-*Enrollee_id : Unique ID for candidate,
-*city: City code,
+* Enrollee_id : Unique ID for candidate,
+* city: City code,
  city_ development _index : Developement index of the city (scaled),
  gender: Gender of candidate,
  relevent_experience: Relevant experience of candidate,
